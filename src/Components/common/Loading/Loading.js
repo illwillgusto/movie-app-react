@@ -1,6 +1,6 @@
 import React from "react";
 
-import "..Loading/Spinner.css"
+import "../Loading/Spinner.css"
 
 const Loading = () => {
     return (
