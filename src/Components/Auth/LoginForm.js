@@ -1,7 +1,7 @@
 import React from "react";
 
 import AnimatedInput from "../common/inputs/AnimatedInput";
-// import CustomCheckbox from "../common/inputs/CustomCheckbox"
+import CustomCheckbox from "../common/inputs/CustomCheckbox"
 
 const LoginForm = ({ formSubmitHandler, inputChangeHandler }) => {
     return (
